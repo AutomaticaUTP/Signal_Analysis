@@ -1,6 +1,6 @@
 # Signal Analysis Course
 
-Welcome to the Signal Processing Course! This README provides an overview of the course content and important details.
+Welcome to the Signal Analysis Course! This README provides an overview of the course content and important details.
 
 ## Table of Contents
 1. [Chapter 1: Definition and Classification of Signals](#chapter-1-definition-and-classification-of-signals)
