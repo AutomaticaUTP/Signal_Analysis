@@ -1,4 +1,4 @@
-# Signal Processing Course
+# Signal Analysis Course
 
 Welcome to the Signal Processing Course! This README provides an overview of the course content and important details.
 
