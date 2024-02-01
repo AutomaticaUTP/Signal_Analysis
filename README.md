@@ -18,14 +18,14 @@ Welcome to the Signal Processing Course! This README provides an overview of the
 - Characteristics of analog frequency
 - Characteristics of discrete frequency
 - Sampling frequency and aliasing
-- **Duration: 4 weeks**
+**Duration: 4 weeks**
 
 ## Chapter 2: Orthogonality and Signal Representation
 - Signal representation: analogy with vectors
 - Signal representation in L² spaces
 - Energy of the error function and optimal coefficient calculation
 - Parseval's theorem for signals
-- **Duration: 2 weeks**
+**Duration: 2 weeks**
 
 ## Chapter 3: Fourier Series
 - Fourier Series
@@ -36,14 +36,14 @@ Welcome to the Signal Processing Course! This README provides an overview of the
 - Fourier spectrum
 - Analysis of periodic waveforms
 - Convergence of Fourier series: Dirichlet conditions, Gibbs phenomenon
-- **Duration: 3 weeks**
+**Duration: 3 weeks**
 
 ## Chapter 4: Parameters and Metrics for Electrical Systems with Harmonics
 - Energy and power calculations: active, reactive, apparent, and harmonic distortion (Budeanu's Theory)
 - Total harmonic distortion calculation for single-phase and three-phase systems
 - Calculation of other metrics associated with power quality
 - Discrete Fourier Transform (DFT)
-- **Duration: 2 weeks**
+**Duration: 2 weeks**
 
 ## Chapter 5: The Fourier Transform
 - Fourier Transforms
@@ -51,13 +51,13 @@ Welcome to the Signal Processing Course! This README provides an overview of the
 - Parseval's theorem for energy signals
 - Special Fourier transforms
 - Properties of the Fourier Transform: linearity, complex conjugate, duality, coordinate scaling, time and frequency shifting, differentiation and integration, convolution in time and frequency, sampling theory
-- **Duration: 4 weeks**
+**Duration: 4 weeks**
 
 ## Chapter 6: Applications
 - Filtering
 - Amplitude modulation
 - Discrete Fourier Transform
 - Fast Fourier Transform
-- **Duration: 2 weeks**
+**Duration: 2 weeks**
 
 Good luck students!
